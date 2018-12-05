@@ -6,24 +6,24 @@ http://localhost:8080/getDiscounts?firstName=Sam&lastName=Fire&age=60&isHomeOwne
 
 
 
-http://localhost:8080/getDiscounts?firstName=Sam&lastName=Fire&age=60&isHomeOwner=false&accidents=0&carsInsured=2&isVeteran=false&commuteMiles=33&isGoodStudent=false
+http://localhost:8080/getDiscounts?firstName=Kelly&lastName=Fire&age=35&isHomeOwner=true&accidents=1&carsInsured=1&isVeteran=false&commuteMiles=25&isGoodStudent=true
 
 
 
 
-http://localhost:8080/getDiscounts?firstName=Sam&lastName=Fire&age=60&isHomeOwner=false&accidents=0&carsInsured=2&isVeteran=false&commuteMiles=33&isGoodStudent=false
+http://localhost:8080/getDiscounts?firstName=Ronaldo&lastName=Fire&age=56&isHomeOwner=true&accidents=3&carsInsured=2&isVeteran=true&commuteMiles=28&isGoodStudent=true
 
 
 
 
-http://localhost:8080/getDiscounts?firstName=Sam&lastName=Fire&age=60&isHomeOwner=false&accidents=0&carsInsured=2&isVeteran=false&commuteMiles=33&isGoodStudent=false
+http://localhost:8080/getDiscounts?firstName=Jonathan&lastName=Fire&age=45&isHomeOwner=true&accidents=0&carsInsured=2&isVeteran=false&commuteMiles=40&isGoodStudent=false
 
 
 
 
-http://localhost:8080/getDiscounts?firstName=Sam&lastName=Fire&age=60&isHomeOwner=false&accidents=0&carsInsured=2&isVeteran=false&commuteMiles=33&isGoodStudent=false
+http://localhost:8080/getDiscounts?firstName=Samantha&lastName=Fire&age=29&isHomeOwner=false&accidents=1&carsInsured=1&isVeteran=false&commuteMiles=22&isGoodStudent=true
 
 
 
 
-http://localhost:8080/getDiscounts?firstName=Sam&lastName=Fire&age=60&isHomeOwner=false&accidents=0&carsInsured=2&isVeteran=false&commuteMiles=33&isGoodStudent=false
+http://localhost:8080/getDiscounts?firstName=Kristen&lastName=Fire&age=22&isHomeOwner=false&accidents=0&carsInsured=1&isVeteran=false&commuteMiles=27&isGoodStudent=true
