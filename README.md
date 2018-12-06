@@ -1,5 +1,5 @@
 # Discounts Calculator
-The DiscountsCalculator is an insurance webservice that lets users input information to find out what discounts they are eligible for when shopping for insurance.
+The DiscountsCalculator is an insurance web service that allows users input, so they can find out what discounts they are eligible for when shopping for insurance.
 
 # To run the DiscountsCalculator application:
 
